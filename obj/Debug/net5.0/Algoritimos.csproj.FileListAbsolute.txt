@@ -1,0 +1,16 @@
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimos\Algoritimos\obj\Debug\net5.0\Algoritimos.csprojAssemblyReference.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimos\Algoritimos\obj\Debug\net5.0\Algoritimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimos\Algoritimos\obj\Debug\net5.0\Algoritimos.AssemblyInfoInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimos\Algoritimos\obj\Debug\net5.0\Algoritimos.AssemblyInfo.cs
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimos\Algoritimos\obj\Debug\net5.0\Algoritimos.csproj.CoreCompileInputs.cache
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimos\Algoritimos\bin\Debug\net5.0\Algoritimos.exe
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimos\Algoritimos\bin\Debug\net5.0\Algoritimos.deps.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimos\Algoritimos\bin\Debug\net5.0\Algoritimos.runtimeconfig.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimos\Algoritimos\bin\Debug\net5.0\Algoritimos.runtimeconfig.dev.json
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimos\Algoritimos\bin\Debug\net5.0\Algoritimos.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimos\Algoritimos\bin\Debug\net5.0\ref\Algoritimos.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimos\Algoritimos\bin\Debug\net5.0\Algoritimos.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimos\Algoritimos\obj\Debug\net5.0\Algoritimos.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimos\Algoritimos\obj\Debug\net5.0\ref\Algoritimos.dll
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimos\Algoritimos\obj\Debug\net5.0\Algoritimos.pdb
+C:\Users\ty_jo\Documents\Estudo\Projetos\Algoritimos\Algoritimos\obj\Debug\net5.0\Algoritimos.genruntimeconfig.cache
